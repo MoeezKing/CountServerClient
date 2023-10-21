@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Client {
+
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         Socket sc = new Socket("localhost", 1234);
 

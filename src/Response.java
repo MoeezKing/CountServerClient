@@ -2,6 +2,7 @@ import java.io.Serializable;
 
 public class Response implements Serializable {
 
+
     private char alpha;
     private int count;
 

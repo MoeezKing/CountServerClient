@@ -9,6 +9,7 @@ import java.security.KeyPair;
 import java.util.*;
 
 public class Server {
+
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         ServerSocket ss = new ServerSocket(1234);
 
